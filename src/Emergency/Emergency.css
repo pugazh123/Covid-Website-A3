@@ -1,0 +1,38 @@
+.t{
+    width: 100%;
+    border-color: black;
+    align-items: center;
+    border-width: 2px;
+    
+}
+.z{
+    text-align: center;
+    font-size:40px;
+}
+.y{
+    text-align: center;
+    margin-top: 2%;
+}
+table{
+    width: 1000px;
+
+
+  
+    margin-left: 15%;
+    margin-top: 3%;
+    border:2px solid black;
+    height: 500px;
+}
+th{
+    border-bottom: 1px black;
+    text-align: center;
+    border:2px solid black;
+}
+td{
+    text-align: center;
+    border:2px solid black;
+    
+}
+body{
+    position:relative;
+}

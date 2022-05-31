@@ -1,0 +1,25 @@
+.abc{
+    width: 1350px;
+    height: 200px;
+    background-color: gray;
+    margin-top: 5%;
+}
+.v{
+    text-decoration: underline;
+    margin-left: 14px;
+    
+}
+.s{
+    margin-left: 14px;
+}
+.n{
+    margin-left: 60px;
+    text-decoration: underline;
+}
+.m{
+    margin-left: 60px;
+}
+.a{
+    text-align: center;
+    margin-top: 1%;
+}
